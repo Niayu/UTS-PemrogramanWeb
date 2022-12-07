@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'nunito';
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+    
+}
+
+
+.hero-background{
+    background-image: url("../asset/jumbotron.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero {
+    padding: 140px 0px 140px 0px;
+    background: rgba(39, 40, 41, 0.6);
+    margin-bottom: 100px;
+}
+
+.jd{
+    font-size: 65px;
+}
+
+
+.card-text{
+    text-align: justify;
+}
+
+.company .carousel-inner .carousel-item{
+    height: 550px;
+}
+
+.company .carousel-inner .carousel-item img{
+    margin-top: -100px;
+}
+
+.garba{
+    width: 100px;
+    border-bottom: 3px solid black;
+    margin-top: -15px;
+}
+
+ h1 .jdcom .company{
+    color: aquamarine !important;
+}
+
+
